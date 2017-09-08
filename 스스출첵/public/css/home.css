@@ -1,0 +1,37 @@
+/*
+    테마색 : 5398ea
+*/
+@font-face {font-family: 'applemint'; src: url("../fonts/applemint.ttf");}
+*{margin:0; padding:0; box-sizing:border-box; color:#333; font-family: 'applemint';}
+#wrap{width:320px; height:auto; margin: 0 auto;}
+a{color:inherit; text-decoration: none;}
+
+/*title*/
+.title{width:100%; height:50px; text-align: center; margin-top:120px; font-size:28px;}
+.title span{font-family: fantasy; font-weight:100; letter-spacing:5px; color:#5398ea;}
+
+/*form wrap*/
+.fw{display:table; margin: 20px auto 0;}
+.inp{border:none; border-bottom:2px solid #747474; padding-left:8px; padding-bottom:3px; display:block; font-size:28px; margin: 30px auto;}
+
+/*buttons*/
+.bw{width:280px; height:40px; margin: 40px auto 0;}
+.btn{display:block; width:120px; height:40px; border:none; cursor:pointer;}
+
+/*btn - index*/
+.i_login{float:right; background-color: #54abe2; color:white;}
+.i_join{float:left; background-color: #646464; color:white;}
+
+/*absent*/
+#absent{margin-top:0;}
+#absent_box{background-color:#ededed; width:280px; height:0px; margin:0px auto 0;padding-top:0; overflow:hidden; transition:0.7s; padding:0 10px;}
+#absent_box h2{text-align:center; line-height:60px;}
+.absent_txt{width:100%; height:200px; resize:none; padding:5px;}
+.absent_cal{display:block; width:120px; height:20px; margin:5px auto 0; border:none; cursor:pointer;}
+
+/*long button*/
+.lbtn{display:block; width:280px; height:40px; border:none; cursor:pointer; margin:10px auto;}
+.logbox{display:table; margin:30px auto 0; text-align:center; font-size:26px;}
+    
+/*made by jjh*/
+.made{text-align: center; margin-top:30px; font-family:'applemint'; margin-bottom:15px;}

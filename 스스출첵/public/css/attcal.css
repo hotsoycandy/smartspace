@@ -1,0 +1,4 @@
+.attcal table{margin: 0 auto;}
+.sunday{color:#f00;}
+.satday{color:#00f;}
+.month{display:inline-block; margin:0 7px; cursor:pointer;}

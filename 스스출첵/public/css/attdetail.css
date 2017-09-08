@@ -1,0 +1,28 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    color:inherit;
+}
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+tr:first-child{
+    background-color: #5398ea;
+    color:#f4f4f4;
+}
+td button{
+    background-color: #5398ea;
+    border:none;
+    color:white;
+    width:30px;
+    height:20px;
+    cursor:pointer;
+}
+.reason{text-align: left;}
+h2{margin: 5px;margin-top: 15px;}

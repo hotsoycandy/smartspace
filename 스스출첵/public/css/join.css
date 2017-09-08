@@ -1,0 +1,8 @@
+#wrap{width:360px;}
+.cls{display:table; margin: 20px auto;}
+.gcnw{margin: 0 16px; float:left; font-size:18px;}
+.gcn{width:65px; height:20px; border:none; border-bottom:2px solid #747474; text-align: center; margin-right:-2px; text-align-last:center;}
+
+/*button*/
+.j_back{float:left; background-color: #646464; color:white;}
+.j_join{float:right; background-color: #54abe2; color:white;}
